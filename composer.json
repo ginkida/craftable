@@ -37,7 +37,7 @@
     ],
     "require": {
         "php": "^8.0.2",
-        "brackets/admin-auth": "^7.0",
+        "ginkida/admin-auth": "^7.0",
         "brackets/admin-listing": "^3.0",
         "brackets/admin-translations": "^4.0",
         "brackets/admin-ui": "^4.0",
