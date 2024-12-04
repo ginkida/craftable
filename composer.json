@@ -1,6 +1,6 @@
 {
-    "name": "brackets/craftable",
-    "description": "Administration toolkit for Laravel 8 - starting point for developing administration interface",
+    "name": "ginkida/craftable",
+    "description": "Administration toolkit for Laravel 11 - starting point for developing administration interface",
     "keywords": [
         "craftable",
         "crud",
